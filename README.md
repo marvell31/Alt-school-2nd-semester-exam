@@ -1,2 +1,3 @@
 # Alt-school-2nd-semester-exam
-Alt school second semester python project 
+A Blog Api with user authentication
+Download and install table-plus for database 
